@@ -13,4 +13,6 @@ console.log('average number is: ' + sumArray(array));
 
 ```
 
-![photo-hennadii](/images/IMG_3699.jpeg)
+![photo-hennadii](/screenshots/Screenshot%202023-12-12%20at%2011.09.31%20AM.png)
+![screenshot](/screenshots/Screenshot%202023-12-12%20at%2011.14.33%20AM.png)
+![screenshot-third](/screenshots/Screenshot%202023-12-12%20at%2011.16.36%20AM.png)
